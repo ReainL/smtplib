@@ -3,6 +3,5 @@ __pycache__
 *.log
 log.*
 .idea/
-*.conf
 *.xml
 
